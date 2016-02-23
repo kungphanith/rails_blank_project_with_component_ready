@@ -1,0 +1,1 @@
+# rails_blank_project_with_component_ready
